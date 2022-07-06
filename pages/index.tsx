@@ -7,7 +7,7 @@ export default function Home() {
       <div className="overflow-y-auto max-h-screen">
         <div className="flex flex-col items-center">
           <div className="h-96">
-            <p className="text-4xl">Hi. I'm Blair McAlpine.</p>
+            <p className="text-4xl">Hi. I&apos;m Blair McAlpine.</p>
           </div>
           <div className="h-96">
             <p className="text-4xl">This is a test.</p>
